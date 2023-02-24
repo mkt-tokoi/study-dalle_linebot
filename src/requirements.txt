@@ -1,0 +1,8 @@
+# Python 3.8
+
+uvicorn~=0.20.0
+fastapi~=0.92.0
+
+line-bot-sdk~=2.4.1  # Python >= 3.7
+
+openai~=0.26.5
